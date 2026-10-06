@@ -1,7 +1,7 @@
 # GLITZ-OS
 Glitz.OS is a web based operating system known for its well created chatting features
 
-Newest Build https://raw.githack.com/GLITZlol/GLITZ-OS/refs/heads/main/glitzOS-themes-ai-windows11-beta.html
+Newest Build https://raw.githack.com/GLITZlol/GLITZ-OS/refs/heads/main/preview%20(2).html
 
 HOW DO YOU VIEW AND USE IT?
 
